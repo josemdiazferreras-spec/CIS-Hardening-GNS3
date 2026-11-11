@@ -4,7 +4,6 @@
 
 **[Ver el video en YouTube: demostración de auditoría y hardening CIS](https://youtu.be/4RRuTz3-xdg)**
 
-Enlace directo: https://youtu.be/4RRuTz3-xdg
 
 **Estudiante:** José Miguel Díaz Ferreras  
 **Matrícula:** `2025-0693`  
