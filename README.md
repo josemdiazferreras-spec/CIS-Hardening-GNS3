@@ -1,4 +1,4 @@
-# Infraestructura 2 — Hardening CIS Benchmark en GNS3
+# Hardening CIS Benchmark en GNS3
 
 ## 🎥 Video demostrativo — objetivo de Seguridad de Redes
 
