@@ -120,19 +120,6 @@ Después del hardening, desde Kali se verificó **5/5 respuestas a R1** y **5/5 
 
 Los **tres archivos JSON originales** se incorporaron sin modificaciones: [auditoría inicial (8/14)](docs/informes/auditar_20261110_202713.json), [aplicación de hardening](docs/informes/aplicar_20261110_203828.json) y [auditoría final (14/14)](docs/informes/auditar_20261110_204226.json). El script registra que no guardó automáticamente en NVRAM (`guardado_en_nvram: false`); posteriormente el estudiante confirmó el guardado manual en ambos equipos.
 
-| Documento | Contenido |
-|---|---|
-| [Documento técnico en Word](docs/Documento_Tecnico_CIS_Hardening_Jose_Miguel_Diaz_Ferreras.docx) | Informe profesional editable con imágenes y resultados |
-| [Documento técnico en PDF](docs/Documento_Tecnico_CIS_Hardening_Jose_Miguel_Diaz_Ferreras.pdf) | Versión final para lectura y entrega |
-| [Documento técnico en Markdown](docs/DOCUMENTO_TECNICO.md) | Explicación del laboratorio y resultados reales |
-| [Recomendaciones y justificación](docs/RECOMENDACIONES_Y_CIS.md) | Siete reglas, razones y estados |
-| [Pruebas y evidencias](docs/PRUEBAS_Y_EVIDENCIAS.md) | Capturas organizadas por fases |
-| [Incidencias y soluciones](docs/INCIDENCIAS_Y_SOLUCIONES.md) | Problemas y soluciones verificadas |
-| [Guía de reproducción](docs/GUIA_DE_REPRODUCCION.md) | Cómo ejecutar ambos modos |
-| [Índice de imágenes](docs/INDICE_DE_EVIDENCIAS.md) | Lista de capturas originales |
-| [Informes de ejecución](docs/informes/README.md) | Tres informes JSON originales: antes, aplicación y auditoría final |
-| [Matriz de requisitos](docs/MATRIZ_DE_REQUISITOS.md) | Qué exige el profesor y qué está completo |
-| [Guía para GitHub](docs/COMO_PUBLICAR_EN_GITHUB.md) | Cómo subir con la estructura de carpetas correcta |
 
 ## Running-configs finales (copia saneada)
 
