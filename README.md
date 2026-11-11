@@ -128,14 +128,6 @@ Los **tres archivos JSON originales** se incorporaron sin modificaciones: [audit
 
 Se han sustituido los hashes de contraseñas y omitido el texto legal largo de los banners de IOSv. Estos archivos preservan las líneas técnicas relevantes y **no deben usarse como configuraciones de restauración**.
 
-## Archivos del repositorio
-
-| Carpeta | Contenido |
-|---|---|
-| [`configs/`](configs/) | Running-configs finales saneados de R1 y SW, más extractos originales anteriores a SSH |
-| [`docs/`](docs/) | Documentación técnica, recomendaciones, pruebas e informes |
-| [`images/`](images/) | Diagrama lógico, flujo y capturas reales del laboratorio |
-| [`scripts/`](scripts/) | Script de auditoría/hardening original, dependencias y exportador de configuraciones |
 
 ## Resultado general
 
